@@ -27,16 +27,14 @@ Whether you're a student, career switcher, or professional upskiller, PathPilot 
 ---
 
 ## 📸 Screenshots
+### 🖥️ Agent Preview and Working
+![Chat Screenshot](images/4.PNG)
+<br>
+![Chat Screenshot](images/5.PNG)
 
-> ✨ **Add screenshots here to showcase the deployed PathPilot interface**
-> 
-> Replace the image paths with your actual image links or relative paths once uploaded.
-
-### 🖥️ Conversation Flow Sample
-![Chat Screenshot](images/chat-screenshot.png)
-
-### 🗺️ Sample Roadmap Output
-![Roadmap Screenshot](images/roadmap-screenshot.png)
+### 🗺️ Deployed Agent working preview
+![Roadmap Screenshot](images/2.PNG)
+![Roadmap Screenshot](images/3.PNG)
 
 ---
 
@@ -59,7 +57,6 @@ PathPilot/
 ├── PathPilot.ipynb         # Jupyter Notebook (core logic and agentic flow)
 ├── README.md               # This file
 ├── LICENSE                 # Project license file
-├── requirements.txt        # Python dependencies (optional)
 ├── /images/                # Screenshots of deployed AI
 ├── /ppt/                   # Final project presentation
 ```
