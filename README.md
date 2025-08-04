@@ -28,13 +28,13 @@ Whether you're a student, career switcher, or professional upskiller, PathPilot 
 
 ## 📸 Screenshots
 ### 🖥️ Agent Preview and Working
-![Chat Screenshot](images/4.PNG)
-<br>
-![Chat Screenshot](images/5.PNG)
+<img src="images/4.PNG" alt="Chat Screenshot" width="600"/>
+<img src="images/5.PNG" alt="Chat Screenshot" width="600"/>
+
 
 ### 🗺️ Deployed Agent working preview
-![Roadmap Screenshot](images/2.PNG)
-![Roadmap Screenshot](images/3.PNG)
+<img src="images/2.PNG" alt="Chat Screenshot" width="600"/>
+<img src="images/3.PNG" alt="Chat Screenshot" width="600"/>
 
 ---
 
